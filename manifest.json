@@ -1,6 +1,6 @@
 {
     "name" : "cabloy-uni-demo",
-    "appid" : "__UNI__D2B9154",
+    "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -50,7 +50,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx823df04764b9659f",
+        "appid" : "",
         "setting" : {
             "urlCheck" : false
         },

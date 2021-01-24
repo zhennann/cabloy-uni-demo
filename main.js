@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App'
 
-import Cabloy from './js_sdk/cabloy-sdk/main.js'
+import Cabloy from './js_sdk/cabloy-sdk'
 
 // 初始化cabloy
 const cabloyOptions = {
