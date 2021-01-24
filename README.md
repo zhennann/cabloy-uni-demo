@@ -26,7 +26,7 @@
 
 在`main.js`文件中添加如下代码：
 
-```
+``` javascript
 import Vue from 'vue'
 import App from './App'
 
