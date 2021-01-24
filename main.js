@@ -10,7 +10,7 @@ const cabloyOptions = {
 	locale: 'en-us',
   },
   api: {
-	baseURL: 'https://demo.cabloy.com',
+	baseURL: 'https://yourdomain.com',
   },
 }
 
